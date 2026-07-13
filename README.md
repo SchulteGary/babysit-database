@@ -1,5 +1,3 @@
-# Babysit — Babysitting Appointment Database
-
 A normalized relational database built in PostgreSQL to manage a babysitting/childcare appointment scheduling system. Designed with proper relational modeling principles to track families, children, members (caregivers/parents), and scheduled appointments.
 
 ## Overview
